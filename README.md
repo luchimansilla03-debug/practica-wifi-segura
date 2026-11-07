@@ -16,4 +16,4 @@ Utilizar una VPN en redes Wi-Fi públicas.
 
 Conectarse a redes confiables y mantener los dispositivos actualizados.
 
-Informe completo: Ver PDF
+Informe completo: Ver PDF /practica-wifi-segura.pdf 
